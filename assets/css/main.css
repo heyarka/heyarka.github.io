@@ -1136,12 +1136,11 @@ input, select, textarea {
 			transition-delay: 0.75s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGluZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D");
 			background-size: auto,
- 400px 300px;
+ 300px 400px;
 			background-position: center,
  center;
 			background-repeat: no-repeat;
 			z-index: 2;
-			border-radius: 16px 16px;
 		}
 
 		#bg:after {
@@ -1156,7 +1155,6 @@ input, select, textarea {
 			background-image: url("https://static.vecteezy.com/system/resources/previews/021/573/698/large_2x/messy-lines-illustration-of-the-black-pattern-of-lines-abstract-background-eps10-free-vector.jpg");
 			background-position: center;
 			background-size: cover;
-			border-radius: 16px 16px;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
